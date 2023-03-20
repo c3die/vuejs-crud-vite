@@ -2,7 +2,9 @@ run the xampp
 search http://localhost/phpmyadmin
 create database vuejs-crud-vite
 open visual studio
+open new terminal then type php artisan migrate
 open new terminal then type php artisan serve
 open another  new terminal then type npm run dev
 open browser search http://127.0.0.1:8000
+
 
